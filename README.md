@@ -1,6 +1,5 @@
 ### Hi there, I'm HyunWoo Joo 👋
 
-I am currently creating a page. 
 
 
 프로젝트 : 잘나왔닷
@@ -11,6 +10,8 @@ https://github.com/WOULDU-pres/robotarm_project
 
 
 --------------------
+
+I am currently updating this page. 
 
 <table>
   <tr>
@@ -49,3 +50,4 @@ https://github.com/WOULDU-pres/robotarm_project
 - 📫 How to reach me: [Your Preferred Contact Method]
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Fun Fact About You]
+
