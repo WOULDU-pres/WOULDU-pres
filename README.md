@@ -1,5 +1,17 @@
 ### Hi there, I'm HyunWoo Joo 👋
 
+I am currently creating a page. 
+
+
+프로젝트 : 잘나왔닷
+https://github.com/WOULDU-pres/SK_telecom_AI_GroupShot_Project
+
+프로젝트 : 딥러닝 AI 자동 수확 농업용 로봇
+https://github.com/WOULDU-pres/robotarm_project
+
+
+--------------------
+/*
 <table>
   <tr>
     <th>Contact</th>
@@ -37,3 +49,5 @@
 - 📫 How to reach me: [Your Preferred Contact Method]
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Fun Fact About You]
+
+*/
