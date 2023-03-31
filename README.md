@@ -11,7 +11,7 @@ https://github.com/WOULDU-pres/robotarm_project
 
 
 --------------------
-/*
+
 <table>
   <tr>
     <th>Contact</th>
@@ -49,5 +49,3 @@ https://github.com/WOULDU-pres/robotarm_project
 - 📫 How to reach me: [Your Preferred Contact Method]
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Fun Fact About You]
-
-*/
