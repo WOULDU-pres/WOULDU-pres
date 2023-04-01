@@ -32,22 +32,6 @@ I am currently updating this page.
 ## Tech Skills
 <table>
   <tr>
-    <th>General Programming</th>
-    <td>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <th>Web Development</th>
-    <td>
-      <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/>
-      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=Flask&logoColor=white"/>
-      <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=black"/>
-      <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB.svg?&style=flat&logo=React&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
     <th>Data Science</th>
     <td>
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=Pandas&logoColor=white"/>
@@ -65,6 +49,23 @@ I am currently updating this page.
       <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?&style=flat&logo=Keras&logoColor=white"/>
     </td>
   </tr>
+  <tr>
+    <th>General Programming</th>
+    <td>
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Web Development</th>
+    <td>
+      <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/>
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=Flask&logoColor=white"/>
+      <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=black"/>
+      <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB.svg?&style=flat&logo=React&logoColor=black"/>
+    </td>
+  </tr>
+  
   <tr>
     <th>Cloud Service</th>
     <td>
