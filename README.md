@@ -12,7 +12,7 @@ https://github.com/WOULDU-pres/robotarm_project
 
 --------------------
 
-I am currently updating this page..
+I am currently updating this page.
 
 ## 
 <table>
