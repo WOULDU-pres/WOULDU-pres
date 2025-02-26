@@ -44,7 +44,7 @@
   </tr>
 </table>
 
-### Additional Skills
+### Sub Skills
 
 <table>
   <tr>
@@ -99,6 +99,7 @@
 > 이벤트 통합 관리 플랫폼
 
 #### Tech Skills
+<p align="left">
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img alt="JPA" src="https://img.shields.io/badge/JPA-1E90FF?style=flat&logo=hibernate&logoColor=white"/>
@@ -108,6 +109,7 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 <img alt="React-query" src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
 <img alt="zustand" src="https://img.shields.io/badge/zustand-333?style=flat&logo=react&logoColor=white"/>
+</p>
 
 ### PROJECT 잘나왔닷
 
@@ -116,6 +118,7 @@
 🌟 **SKT FLY AI 팀 프로젝트**
 
 #### Tech Skills
+<p align="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/>
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB.svg?&style=flat&logo=React&logoColor=black"/>
@@ -123,6 +126,7 @@
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat&logo=OpenCV&logoColor=white"/>
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=Flask&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=Amazon-AWS&logoColor=white"/>
+</p>
 
 ### PROJECT 딥러닝 AI 자동 수확 농업용 로봇
 
@@ -134,12 +138,14 @@
 🏅 **이사장상** 대진대학교  
 
 #### Tech Skills
+<p align="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
 <img alt="YOLOv5" src="https://img.shields.io/badge/YOLOv5-000.svg?&style=flat&logo=YOLOv5&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white"/>
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat&logo=OpenCV&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=white"/>
 <img alt="Robotics" src="https://img.shields.io/badge/Robotics-6E97F0.svg?&style=flat&logo=Robotics&logoColor=white"/>
+</p>
 
 ---
 
