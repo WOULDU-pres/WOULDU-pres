@@ -3,7 +3,13 @@
 ## 대통령상 수상자 주현우입니다.
 
 2주만에 이벤트 플랫폼 vent를 개발했습니다.  
-개발이 너무 재밌고, 개발을 더 재미있게 할 수 있는 기회를 찾고 있습니다.
+개발이 너무 재밌고, 개발을 더 재미있게 할 수 있는 기회를 찾고 있습니다.  
+
+## 📫 Contact
+<a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yourlinkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat&logo=LinkedIn&logoColor=white"/></a>
+
+---
 
 ## 📱 Projects 
 
@@ -146,9 +152,3 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=white"/>
 <img alt="Robotics" src="https://img.shields.io/badge/Robotics-6E97F0.svg?&style=flat&logo=Robotics&logoColor=white"/>
 </p>
-
----
-
-## 📫 Contact
-<a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yourlinkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat&logo=LinkedIn&logoColor=white"/></a>
