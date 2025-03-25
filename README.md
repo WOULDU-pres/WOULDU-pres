@@ -11,6 +11,10 @@
 
 ---
 
+## 📝 Blog
+올리브영에 들어가고 싶어 작성한 블로그입니다.  
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=notion&logoColor=white)](https://hwjoo.vercel.app/)  
+
 ## 📱 Projects 
 
 | 프로젝트 | 프로젝트 설명 | 링크 |
